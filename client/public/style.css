@@ -1,0 +1,35 @@
+
+body {
+    background-image: url("https://wallpapertag.com/wallpaper/full/5/2/a/560174-top-cigar-wallpaper-2048x1356-hd-1080p.jpg");
+    background-attachment: fixed;
+}
+
+.carousel-inner > .item > img {
+    width:600px;
+    height:360px;
+
+    object-fit:scale-down;
+
+
+  }
+
+.carousel-caption {
+
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+
+.carousel-inner {
+    background-color: burlywood;
+  }
+
+.btn {
+    text-align: center;
+}
+
+/* footer */
+
+.footer {
+    height: 0%;
+}
+
